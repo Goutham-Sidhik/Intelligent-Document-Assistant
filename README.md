@@ -39,8 +39,8 @@ A GenAI-based conversational assistant that answers user questions based solely 
 | Embedding            | Amazon Bedrock Embeddings |
 | Vector DB            | FAISS                   |
 | Voice Input          | Whisper + SpeechRecognition |
-| Backend              | Python (FastAPI / Flask)|
-| Frontend             | Gradio / Streamlit      |
+| Backend              | Python (FastAPI)         |
+| Frontend             | Streamlit                |
 
 ---
 
