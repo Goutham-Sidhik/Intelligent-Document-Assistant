@@ -27,6 +27,7 @@ A GenAI-based conversational assistant that answers user questions based solely 
 ## 🧠 Architecture
 
 ![Architecture Diagram](architecture.png)
+*Note: Temporary architecture — final version coming soon.*
 
 ---
 
